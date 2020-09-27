@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc0a162c-23bf-4ff9-8ed8-6dd4e4b773b4" name="Default Changelist" comment="添加html" />
+    <list default="true" id="cc0a162c-23bf-4ff9-8ed8-6dd4e4b773b4" name="Default Changelist" comment="添加html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/otherWay.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/otherWay.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +62,9 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\IDEA\IDEAWorkspace\Java511" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\develop\IDEA\IDEAWorkspace\Java511\static" />
     </key>
@@ -73,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601191426065</updated>
       <workItem from="1601191427549" duration="4146000" />
-      <workItem from="1601206816175" duration="313000" />
+      <workItem from="1601206816175" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="添加html">
       <created>1601193940676</created>
@@ -110,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601207037931</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加html">
+      <created>1601207203346</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601207203346</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +156,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="494" y="263" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1601206755240" />
+    <state x="318" y="123" key="MultipleFileMergeDialog" timestamp="1601207146589">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="318" y="123" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601207146589" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1601205694497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -154,9 +172,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="443" y="75" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1601206676747" />
-    <state x="454" y="150" key="git4idea.merge.GitMergeDialog" timestamp="1601206832569">
+    <state x="454" y="150" key="git4idea.merge.GitMergeDialog" timestamp="1601207137222">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="454" y="150" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601206832569" />
+    <state x="454" y="150" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601207137222" />
   </component>
 </project>
