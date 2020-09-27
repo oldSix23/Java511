@@ -1,0 +1,18 @@
+Index: static/otherWay.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>测试</title>\r\n</head>\r\n<body>\r\n    <h1>other_way</h1>\r\n        测试2\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- static/otherWay.html	(revision c854ecbb16d695a5f8e52ada5e4c0879687a0cc4)
++++ static/otherWay.html	(date 1601206559460)
+@@ -6,6 +6,6 @@
+ </head>
+ <body>
+     <h1>other_way</h1>
+-        测试2
++        测试233
+ </body>
+ </html>
+\ No newline at end of file
