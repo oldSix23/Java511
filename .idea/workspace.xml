@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc0a162c-23bf-4ff9-8ed8-6dd4e4b773b4" name="Default Changelist" comment="添加测试2" />
+    <list default="true" id="cc0a162c-23bf-4ff9-8ed8-6dd4e4b773b4" name="Default Changelist" comment="添加html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -72,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601191426065</updated>
       <workItem from="1601191427549" duration="4146000" />
+      <workItem from="1601206816175" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="添加html">
       <created>1601193940676</created>
@@ -94,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601206414349</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加测试2">
+      <created>1601206857605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601206857605</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加html">
+      <created>1601207037931</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601207037931</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,8 +126,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加测试2" />
     <MESSAGE value="添加html" />
     <option name="LAST_COMMIT_MESSAGE" value="添加html" />
   </component>
@@ -136,5 +154,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="443" y="75" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1601206676747" />
+    <state x="454" y="150" key="git4idea.merge.GitMergeDialog" timestamp="1601206832569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="150" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601206832569" />
   </component>
 </project>
